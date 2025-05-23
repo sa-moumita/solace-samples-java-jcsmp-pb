@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: Solace JCSMP Getting Started Samples
+Implementation-Version: 
+

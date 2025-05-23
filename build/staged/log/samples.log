@@ -1,0 +1,25 @@
+2025-05-21 08:27:39,005 INFO c.s.t.i.n.NettyTransportExecutorService [main] Epoll is not available; Netty 4.1.118.Final
+2025-05-21 08:27:39,124 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connecting to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (host 1 of 1, smfclient 1, attempt 1 of 1, this_host_attempt: 1 of 1)
+2025-05-21 08:27:39,970 INFO c.s.j.i.JCSMPBasicSession [main] Client-1: AdCtrl version changes: 2->4
+2025-05-21 08:27:39,973 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connected to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (smfclient 1) local(/192.168.1.183:61939) remote(mr-connection-qzk92nm2y9z.messaging.solace.cloud/13.232.167.213:55555)
+2025-05-21 08:27:49,281 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Channel Closed (smfclient 1)
+2025-05-21 14:04:00,331 INFO c.s.t.i.n.NettyTransportExecutorService [main] Epoll is not available; Netty 4.1.118.Final
+2025-05-21 14:04:00,581 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connecting to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (host 1 of 1, smfclient 1, attempt 1 of 1, this_host_attempt: 1 of 1)
+2025-05-21 14:04:01,349 INFO c.s.j.i.JCSMPBasicSession [main] Client-1: AdCtrl version changes: 2->4
+2025-05-21 14:04:01,352 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connected to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (smfclient 1) local(/172.20.10.2:50483) remote(mr-connection-qzk92nm2y9z.messaging.solace.cloud/3.108.156.73:55555)
+2025-05-21 14:04:12,022 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Channel Closed (smfclient 1)
+2025-05-21 14:04:43,381 INFO c.s.t.i.n.NettyTransportExecutorService [main] Epoll is not available; Netty 4.1.118.Final
+2025-05-21 14:04:43,457 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connecting to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (host 1 of 1, smfclient 1, attempt 1 of 1, this_host_attempt: 1 of 1)
+2025-05-21 14:04:44,228 INFO c.s.j.i.JCSMPBasicSession [main] Client-1: AdCtrl version changes: 2->4
+2025-05-21 14:04:44,230 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connected to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (smfclient 1) local(/172.20.10.2:50512) remote(mr-connection-qzk92nm2y9z.messaging.solace.cloud/3.108.156.73:55555)
+2025-05-21 14:04:47,062 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Channel Closed (smfclient 1)
+2025-05-21 14:26:15,487 INFO c.s.t.i.n.NettyTransportExecutorService [main] Epoll is not available; Netty 4.1.118.Final
+2025-05-21 14:26:15,736 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connecting to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (host 1 of 1, smfclient 1, attempt 1 of 1, this_host_attempt: 1 of 1)
+2025-05-21 14:26:16,552 INFO c.s.j.i.JCSMPBasicSession [main] Client-1: AdCtrl version changes: 2->4
+2025-05-21 14:26:16,554 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connected to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (smfclient 1) local(/172.20.10.2:52744) remote(mr-connection-qzk92nm2y9z.messaging.solace.cloud/13.232.167.213:55555)
+2025-05-21 14:26:24,850 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Channel Closed (smfclient 1)
+2025-05-21 14:26:49,880 INFO c.s.t.i.n.NettyTransportExecutorService [main] Epoll is not available; Netty 4.1.118.Final
+2025-05-21 14:26:49,963 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connecting to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (host 1 of 1, smfclient 1, attempt 1 of 1, this_host_attempt: 1 of 1)
+2025-05-21 14:26:50,748 INFO c.s.j.i.JCSMPBasicSession [main] Client-1: AdCtrl version changes: 2->4
+2025-05-21 14:26:50,750 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Connected to host 'orig=mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555, host=mr-connection-qzk92nm2y9z.messaging.solace.cloud, port=55555' (smfclient 1) local(/172.20.10.2:52768) remote(mr-connection-qzk92nm2y9z.messaging.solace.cloud/13.232.167.213:55555)
+2025-05-21 14:26:53,662 INFO c.s.j.p.i.TcpClientChannel [main] Client-1: Channel Closed (smfclient 1)
