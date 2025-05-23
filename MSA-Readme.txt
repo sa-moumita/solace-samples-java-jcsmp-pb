@@ -22,7 +22,8 @@ MessageSelectorsOnQueue.java
 
 -----------------------------
 
-.\bin\CustomQueueBrowse -h mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555 -u solace-cloud-client@btp_is_em -w r9ov0bcvdp9ge8q5bkv7v03tc1 -x BASIC -q Q/poc/input
+.\bin\CustomQueueBrowse -h mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555 -u solace-cloud-client@btp_is_em -w r9ov0bcvdp9ge8q5bkv7v03tc1 -x BASIC -q q/poc/app1
+.\bin\CustomQueueBrowse -h mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555 -u solace-cloud-client@btp_is_em -w r9ov0bcvdp9ge8q5bkv7v03tc1 -x BASIC -q q/poc/app1 -k ci -v 102
 
 .\bin\CustomMsgSelectorsOnQueue -h mr-connection-qzk92nm2y9z.messaging.solace.cloud:55555 -u solace-cloud-client@btp_is_em -w r9ov0bcvdp9ge8q5bkv7v03tc1 -x BASIC -q Q/poc/input
 
